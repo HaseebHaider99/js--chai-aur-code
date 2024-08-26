@@ -1,0 +1,41 @@
+// Variables and data types
+
+// Activity 1 & 2
+
+var number = 20
+let string = "Haider"
+const isLoggedIn = true
+
+// console.log(`The number is ${number}`);
+// console.log(`My name is ${string}`);
+// console.log(`User is logged in: ${isLoggedIn}`);
+
+// Activity 3
+
+let isNumber = 30
+let isString = "Hello World"
+let isBoolean = true
+let isObject = {}
+let isArray = [1, 2, 3]
+
+// console.log(`The type of Number is: ${typeof isNumber}`);
+// console.log(`The type of String is: ${typeof isString}`);
+// console.log(`The type of Boolean is: ${typeof isBoolean}`);
+// console.log(`The type of Object is: ${typeof isObject}`);
+// console.log(`The type of Array is: ${typeof isArray}`);
+
+// Activity 4
+
+let myNumb = 20;
+console.log(`Before reassigning: ${myNumb}`);
+
+myNumb = 30;
+console.log(`After reassigning: ${myNumb}`);
+
+// Activity 5
+
+const myAge = 20;
+console.log(`Before reassigning: ${myNumb}`);
+
+myAge = 30;
+console.log(`After reassigning: ${myNumb}`); //TypeError: Assignment to constant variable.

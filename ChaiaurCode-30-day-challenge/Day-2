@@ -1,0 +1,66 @@
+/*
+    Topics which i dont understand:
+(1)NOT operator
+(2)Ternary operator 
+*/
+
+
+// Operators
+
+// Activity 1
+
+// let numb1 = 10;
+// let numb2 = 20;
+
+// let addition = numb2 + numb1
+// let subtraction = numb2 - numb1
+// let division = numb2 / numb1
+// let multiplication = numb2 * numb1
+
+// console.log(`Addition of two numbers is: ${addition}`)
+// console.log(`Subtraction of two numbers is: ${subtraction}`)
+// console.log(`Division of two numbers is: ${division}`)
+// console.log(`Multiplication of two numbers is: ${multiplication}`)
+
+// Activity 2
+
+// let myaddnumb = 10;
+// myaddnumb += 5;
+
+// let mysubnumb = 10;
+// mysubnumb -= 5;
+
+// console.log(`Addition of two numbers is: ${myaddnumb}`)
+// console.log(`Subtraction of two numbers is: ${mysubnumb}`)
+
+// Activity 3
+
+// let firstNumb = 10
+// let secondNumb = 8
+// let compareNumbOne = firstNumb >= secondNumb;
+// let compareNumbTwo = firstNumb >= secondNumb;
+
+// console.log(`Comparing two numbers: ${compareNumbOne}`);
+// console.log(`Comparing two numbers: ${compareNumbTwo}`);
+
+
+// let firstNumb = 10
+// let secondNumb = "10"
+// let normalEqual = firstNumb == secondNumb
+// let strictEqual = firstNumb === secondNumb
+
+// console.log(`Comparing two numbers: ${normalEqual}`);
+// console.log(`Comparing two numbers: ${strictEqual}`);
+
+
+// Activity 4
+
+// let firstNumb = 50
+// let secondNumb = 20
+// let compareNumbOne = firstNumb && secondNumb;
+// let compareNumbTwo = firstNumb || secondNumb;
+
+// console.log(compareNumbOne);
+// console.log(compareNumbTwo);
+
+

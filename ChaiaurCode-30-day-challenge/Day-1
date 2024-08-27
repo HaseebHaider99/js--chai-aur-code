@@ -34,8 +34,8 @@ console.log(`After reassigning: ${myNumb}`);
 
 // Activity 5
 
-const myAge = 20;
-console.log(`Before reassigning: ${myNumb}`);
+// const myAge = 20;
+// console.log(`Before reassigning: ${myNumb}`);
 
-myAge = 30;
-console.log(`After reassigning: ${myNumb}`); //TypeError: Assignment to constant variable.
+// myAge = 30;
+// console.log(`After reassigning: ${myNumb}`); //TypeError: Assignment to constant variable.

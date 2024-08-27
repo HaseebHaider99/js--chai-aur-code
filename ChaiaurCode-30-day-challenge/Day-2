@@ -1,7 +1,6 @@
 /*
     Topics which i dont understand:
 (1)NOT operator
-(2) Ternary operator
 
 */
 
@@ -65,3 +64,9 @@
 // console.log(compareNumbTwo);
 
 
+// Activity 5
+
+
+// let number = 8;
+// let checkNumb = number > 0 ? `Number ${number} is positive.` : `Number ${number} is negative.`
+// console.log(checkNumb);
